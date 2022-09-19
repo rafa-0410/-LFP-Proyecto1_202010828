@@ -1,0 +1,25 @@
+<Tipo>
+
+<Operacion=SUMA>
+
+    <Operacion=TANGENTE>
+        <Numero>30</Numero>
+    </Operacion>
+
+    <Operacion=INVERSO>
+        <Operacion=SUMA>
+
+            <Operacion=SENO>
+                <Numero>90</Numero>
+            </Operacion>
+
+            <Operacion=COSENO>
+                <Numero>90</Numero>
+            </Operacion>
+
+        </Operacion>
+    </Operacion>
+
+</Operacion>
+
+</Tipo>
